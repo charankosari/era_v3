@@ -9,7 +9,7 @@ export async function POST(request: NextRequest) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "X-API-Key": "api",
+        "X-API-Key": "8PCM4B91.DP8tp8LwoqR5dWFGk4kAXZipzzZkQ6wE",
       },
       body: JSON.stringify({ ...body }),
     });
